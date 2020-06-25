@@ -1,0 +1,24 @@
+#Buttons {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0;
+}
+
+.button {
+  min-width: 40px;
+  min-height: 30px;
+  font-size: 2.5rem;
+  padding: 6px;
+  border-radius: 3px;
+  background-color: rgb(211, 165, 165);
+}
+
+.icon { 
+  color: white;
+}
+
+.new-quote {
+  font-size: 2rem;
+  border: none;
+  padding: 0 10px;
+}

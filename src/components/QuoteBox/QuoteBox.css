@@ -1,0 +1,31 @@
+#quote-box {
+  padding: 35px;
+}
+
+#quote-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+#quote-author {
+  align-self: flex-end;
+  padding-top: 10px;
+}
+
+.fa-quote-left, #text {
+  font-size: 3.5rem;
+}
+
+.fa-quote-left {
+  padding-right: 10px;
+}
+
+#author { 
+  font-size: 2rem;
+} 
+
+#quote-text {
+  text-align: center;
+}
+

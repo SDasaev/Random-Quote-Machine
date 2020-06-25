@@ -1,0 +1,28 @@
+* {
+  font-family: 'Balsamiq Sans', cursive;
+}
+
+
+html, body {
+  height: 100%;
+  margin: 0;
+  font-size: 10px;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(173, 141, 141);
+}
+
+#wrapper {
+  width: 550px;
+  background-color: #fff;
+}
+
+#footer {
+  text-align: center;
+  font-size: 1.5rem;
+  padding-top: 15px;
+}
